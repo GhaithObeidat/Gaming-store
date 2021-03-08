@@ -4,9 +4,6 @@ while (Game !='GOW' && Game !='RDR2')
 <<<<<<< HEAD
 {
     Game=prompt('Out of stock'); 
-=======
-{prompt("Out of stock, Choose GOW or RDR2");
->>>>>>> d499c87a0ff1f36a66a438ea68485918eb7d4b5a
 }
 var copies=prompt('How many copies do you want?');
 var order ='' ;
