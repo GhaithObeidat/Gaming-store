@@ -1,7 +1,7 @@
 var Game=prompt("What game would you like to purchase : GOW, RDR2?");
 
 while (Game !='GOW' && Game !='RDR2')
-{prompt("What game would you like to purchase : GOW, RDR2?");
+{prompt("Out of stock, Choose GOW or RDR2");
 }
 var copies=prompt('How many copies do you want?');
 var order ='' ;
