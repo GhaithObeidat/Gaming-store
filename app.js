@@ -1,7 +1,6 @@
 var Game=prompt("What game would you like to purchase : GOW, RDR2?");
 
 while (Game !='GOW' && Game !='RDR2')
-<<<<<<< HEAD
 {
     Game=prompt('Out of stock'); 
 }
