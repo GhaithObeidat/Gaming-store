@@ -2,7 +2,7 @@ var Game=prompt("What game would you like to purchase : GOW, RDR2?");
 
 while (Game !='GOW' && Game !='RDR2')
 {
-    Game=prompt('Out of stock');
+    Game=prompt('Out of stock'); 
 }
 var copies=prompt('How many copies do you want?');
 var order ='' ;
